@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d61c1930","path":"/basis/UI/play-interface.html","title":"\u64AD\u653E\u754C\u9762","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1661348948000,"contributors":[{"name":"CQBerry","email":"chinq6624@gmail.com","commits":4}]},"filePathRelative":"basis/UI/play-interface.md"}');export{e as data};

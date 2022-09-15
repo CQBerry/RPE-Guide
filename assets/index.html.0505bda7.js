@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3a769cc1","path":"/basis/charting/","title":"\u5199\u8C31","lang":"zh-CN","frontmatter":{"prev":"../UI/status-bar","next":"handle-notes"},"excerpt":"","headers":[],"git":{"updatedTime":1661348948000,"contributors":[{"name":"CQBerry","email":"chinq6624@gmail.com","commits":4}]},"filePathRelative":"basis/charting/README.md"}');export{t as data};

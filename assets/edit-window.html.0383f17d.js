@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6374ccd2","path":"/basis/UI/edit-window.html","title":"\u{1F31F} \u7F16\u8F91\u7A97\u53E3","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1662032964000,"contributors":[{"name":"CQBerry","email":"chinq6624@gmail.com","commits":5}]},"filePathRelative":"basis/UI/edit-window.md"}');export{t as data};

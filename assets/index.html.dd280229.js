@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0a7f6602","path":"/basis/others/","title":"\u5176\u4ED6","lang":"zh-CN","frontmatter":{"prev":"../charting/undo-and-redo","next":"settings"},"excerpt":"","headers":[],"git":{"updatedTime":1661348948000,"contributors":[{"name":"CQBerry","email":"chinq6624@gmail.com","commits":2}]},"filePathRelative":"basis/others/README.md"}');export{e as data};

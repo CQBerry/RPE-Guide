@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9a580052","path":"/basis/inside-chart/event.html","title":"\u{1F31F} \u4E8B\u4EF6","lang":"zh-CN","frontmatter":{"next":"../UI"},"excerpt":"","headers":[],"git":{"updatedTime":1662120148000,"contributors":[{"name":"CQBerry","email":"chinq6624@gmail.com","commits":7}]},"filePathRelative":"basis/inside-chart/event.md"}');export{e as data};
